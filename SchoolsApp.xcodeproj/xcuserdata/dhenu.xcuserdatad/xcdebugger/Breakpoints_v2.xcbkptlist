@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "50DF1B84-C597-40D5-92FC-92EF9A8B814A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1469659-6CF9-4AC8-9DEF-6CA2700C644A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolsApp/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "NetworkManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A1469659-6CF9-4AC8-9DEF-6CA2700C644A - 887501a8e1209a09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.NetworkManager.deinit"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "A1469659-6CF9-4AC8-9DEF-6CA2700C644A - ad5b4ab19dec0e90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.NetworkManager.__deallocating_deinit"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88F7A753-FBD6-42BA-9D6E-0D2A6B663901"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolsApp/SchoolModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "SchoolModel"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "88F7A753-FBD6-42BA-9D6E-0D2A6B663901 - 8b251cb73013968a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolModel.init() -&gt; SchoolsApp.SchoolModel"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/SchoolModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "88F7A753-FBD6-42BA-9D6E-0D2A6B663901 - 5336dbc411e87cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolModel.init(id: Swift.Optional&lt;Swift.String&gt;, schoolName: Swift.Optional&lt;Swift.String&gt;, overViewparagragh: Swift.Optional&lt;Swift.String&gt;, boro: Swift.Optional&lt;Swift.String&gt;) -&gt; SchoolsApp.SchoolModel"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/SchoolModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolsApp/SchoolsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SchoolsViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - 310db5be05a43879"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of SchoolsApp.SchoolsViewModel.schools : Swift.Array&lt;SchoolsApp.SchoolModel&gt;"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/SchoolsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - c054c1871f81288d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolsViewModel.schools.getter : Swift.Array&lt;SchoolsApp.SchoolModel&gt;"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/SchoolsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - bdac028fc5232eec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolsViewModel.schools.setter : Swift.Array&lt;SchoolsApp.SchoolModel&gt;"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/SchoolsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - cf58109c2b63d91d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolsViewModel.schools.modify : Swift.Array&lt;SchoolsApp.SchoolModel&gt;"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/SchoolsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - 61ff8b22ea6d8e7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolsViewModel.schools.modify : Swift.Array&lt;SchoolsApp.SchoolModel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - 46a77e9ea9e86d5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolsViewModel.$schools.getter : Combine.Published&lt;Swift.Array&lt;SchoolsApp.SchoolModel&gt;&gt;.Publisher"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/SchoolsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - 6b2875f04de6cc8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolsViewModel.$schools.setter : Combine.Published&lt;Swift.Array&lt;SchoolsApp.SchoolModel&gt;&gt;.Publisher"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - 2d712ed0081745a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolsViewModel.$schools.modify : Combine.Published&lt;Swift.Array&lt;SchoolsApp.SchoolModel&gt;&gt;.Publisher"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "B5DDDBFA-5C3D-4230-96A4-67662865B7F6 - 1f1cfdbdb6d28faf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolsApp.SchoolsViewModel.$schools.modify : Combine.Published&lt;Swift.Array&lt;SchoolsApp.SchoolModel&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D062C5DB-9697-49F2-8180-FFD9768D0414"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolsApp/SchoolDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8A22EA0-C248-4E8D-8F15-6D775DB7FE83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolsApp/NetworkManagerMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "NetworkManagerMock"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11C78832-393D-402B-8D5A-36DE76BF6289"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolsApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "11C78832-393D-402B-8D5A-36DE76BF6289 - 9ff67685eb114c87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolsApp.ContentView.body.getter : some"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "206">
+               </Location>
+               <Location
+                  uuid = "11C78832-393D-402B-8D5A-36DE76BF6289 - ffe3c275e3f21cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SchoolsApp.SchoolModel) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, SchoolsApp.SchoolDetailView&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolsApp.ContentView.body.getter : some"
+                  moduleName = "SchoolsApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhenu/Documents/Desktop/SchoolsApp/SchoolsApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
